@@ -9,7 +9,7 @@ kodluyoruzVerilerYapilariVeAlgoritmalar3
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 <hr>
 
-# Search Tree Projesi
+#Binary Search Tree Projesi
 
 <h1>|________________|6|_____________________|</h1>
 <h1>|_______|4|<==>||<==>|8|_____________|</h1>
